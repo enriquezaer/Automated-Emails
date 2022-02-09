@@ -5,7 +5,6 @@ import requests
 from pprint import pprint
 
 
-
 class NewFee:
 
     def __int__(self, data):
