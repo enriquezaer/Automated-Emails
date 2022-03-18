@@ -1,0 +1,56 @@
+ 162916|Consultar que el rol GERENTE SENIOR DE NEGOCIOS BANCA PERSONA Y NEGOCIOS tenga acceso a simulaciones del prestamo.|BANCA DE PERSONAS|Actividades
+ 162918|Someter Request Payoff para Cancelación de préstamo en vista 360 con el rol GERENTE SENIOR DE NEGOCIOS BANCA PERSONA Y NEGOCIOS|BANCA DE PERSONAS|Actividades
+ 162919|Someter a cuota adelantada de un préstamo con el rol GERENTE SENIOR DE NEGOCIOS BANCA PERSONA Y NEGOCIOS|BANCA DE PERSONAS|Actividades
+ 162922|Someter amortización con reduccion de cuota de préstamo con el rol GERENTE SENIOR DE NEGOCIOS BANCA PERSONA Y NEGOCIOS|BANCA DE PERSONAS|Actividades
+ 162925|Someter amortización con reduccion de tiempo de préstamo con el rol GERENTE SENIOR DE NEGOCIOS BANCA PERSONA Y NEGOCIOS|BANCA DE PERSONAS|Actividades
+ 162929|Someter Commitment con rol GERENTE CONTROL DE GESTION Y PRICING BCA PERSONA Y NEGOCIOS(caso negativo)|BANCA DE PERSONAS|Actividades
+ 162932|Someter Penalty Interest con el rol GERENTE SENIOR DE NEGOCIOS BANCA PERSONA Y NEGOCIOS (caso negativo).|BANCA DE PERSONAS|Actividades
+ 162933|Someter Schedule con el rol GERENTE SENIOR DE NEGOCIOS BANCA PERSONA Y NEGOCIOS(caso negativo).|BANCA DE PERSONAS|Actividades
+ 162934|Someter reversar pago con el rol GERENTE SENIOR DE NEGOCIOS BANCA PERSONA Y NEGOCIOS ( caso negativo)|BANCA DE PERSONAS|Actividades
+ 162935|Someter Request Payment Holidays con el rol de GERENTE SENIOR DE NEGOCIOS BANCA PERSONA Y NEGOCIOS ( Caso negativo)|BANCA DE PERSONAS|Actividades
+ 162936|Modificar límite con el rol GERENTE SENIOR DE NEGOCIOS BANCA PERSONA Y NEGOCIOS(caso negativo).|BANCA DE PERSONAS|Actividades
+ 163200|Consultar que el rol GESTOR DE NEGOCIOS BANCA PERSONA Y NEGOCIOS tenga acceso a simulaciones del prestamo.|BANCA DE PERSONAS|Actividades
+ 163207|Someter Request Payoff para Cancelación de préstamo en vista 360 con el rol GESTOR DE NEGOCIOS BANCA PERSONA Y NEGOCIOS|BANCA DE PERSONAS|Actividades
+ 163216|Someter Commitment con rol GESTOR DE NEGOCIOS BANCA PERSONA Y NEGOCIOS(caso negativo)|BANCA DE PERSONAS|Actividades
+ 163231|Someter Penalty Interest con el rol GESTOR DE NEGOCIOS BANCA PERSONA Y NEGOCIOS (caso negativo).|BANCA DE PERSONAS|Actividades
+ 163284|Someter Schedule con el rol GESTOR DE NEGOCIOS BANCA PERSONA Y NEGOCIOS (caso negativo).|BANCA DE PERSONAS|Actividades
+ 163292|Someter reversar pago con el rol GESTOR DE NEGOCIOS BANCA PERSONA Y NEGOCIOS ( caso negativo)|BANCA DE PERSONAS|Actividades
+ 163298|Someter Request Payment Holidays con el rol de GESTOR DE NEGOCIOS BANCA PERSONA Y NEGOCIOS ( Caso negativo)|BANCA DE PERSONAS|Actividades
+ 163473|Realizar consulta de préstamos con el rol GERENTE JUNIOR NEGOCIOS MICROFINANZAS.|BANCA DE PERSONAS|Actividades
+ 163486|Consultar que el rol GERENTE JUNIOR NEGOCIOS MICROFINANZAS tenga acceso a simulaciones del prestamo.|BANCA DE PERSONAS|Actividades
+ 163493|Someter Request Payoff para Cancelación de préstamo en vista 360 con el rol GERENTE JUNIOR NEGOCIOS MICROFINANZAS|BANCA DE PERSONAS|Actividades
+ 163522|Someter a cuota adelantada de un préstamo con el rol GERENTE JUNIOR NEGOCIOS MICROFINANZAS|BANCA DE PERSONAS|Actividades
+ 163603|Someter amortización con reduccion de tiempo de préstamo con el rol GERENTE JUNIOR NEGOCIOS MICROFINANZAS|BANCA DE PERSONAS|Actividades
+ 163605|Someter Commitment con rol GERENTE JUNIOR NEGOCIOS MICROFINANZAS (caso negativo)|BANCA DE PERSONAS|Actividades
+ 163606|Someter Penalty Interest con el rol GERENTE JUNIOR NEGOCIOS MICROFINANZAS (caso negativo).|BANCA DE PERSONAS|Actividades
+ 163607|Someter Schedule con el rol GERENTE JUNIOR NEGOCIOS MICROFINANZAS(caso negativo).|BANCA DE PERSONAS|Actividades
+ 163610|Someter reversar pago con el rol GERENTE JUNIOR NEGOCIOS MICROFINANZAS ( caso negativo)|BANCA DE PERSONAS|Actividades
+ 163616|Modificar límite con el rol GERENTE JUNIOR NEGOCIOS MICROFINANZAS (caso negativo).|BANCA DE PERSONAS|Actividades
+ 165253|Realizar consulta de préstamos con el rol EJECUTIVO DE NEGOCIOS VIRTUAL.|BANCA DE PERSONAS|Actividades
+ 165256|Consultar que el rol EJECUTIVO DE NEGOCIOS VIRTUAL tenga acceso a simulaciones del prestamo.|BANCA DE PERSONAS|Actividades
+ 165258|Someter Request Payoff con New Activity para Cancelación de préstamo en vista 360 con el rol EJECUTIVO DE NEGOCIOS VIRTUAL|BANCA DE PERSONAS|Actividades
+ 165263|Realizar pago de una cuota de prestamos con el rol EJECUTIVO DE NEGOCIOS VIRTUAL.|BANCA DE PERSONAS|Actividades
+ 165264|Pagar cuota adelantada de un préstamo con el rol EJECUTIVO DE NEGOCIOS VIRTUAL|BANCA DE PERSONAS|Actividades
+ 165266|Realizar un abono a capital con reduccion de cuota de préstamo con el rol EJECUTIVO DE NEGOCIOS VIRTUAL|BANCA DE PERSONAS|Actividades
+ 165268|Realizar abono a capital con reduccion de tiempo de préstamo con el rol EJECUTIVO DE NEGOCIOS VIRTUAL|BANCA DE PERSONAS|Actividades
+ 165269|Someter Commitment con rol EJECUTIVO DE NEGOCIOS VIRTUAL (caso negativo)|BANCA DE PERSONAS|Actividades
+ 165271|Someter Penalty Interest con el rol EJECUTIVO DE NEGOCIOS VIRTUAL (caso negativo).|BANCA DE PERSONAS|Actividades
+ 165272|Someter Schedule con el rol EJECUTIVO DE NEGOCIOS VIRTUAL (caso negativo).|BANCA DE PERSONAS|Actividades
+ 165274|Someter reversar pago con el rol EJECUTIVO DE NEGOCIOS VIRTUAL ( caso negativo).|BANCA DE PERSONAS|Actividades
+ 165275|Someter Request Payment Holidays con el rol de EJECUTIVO DE NEGOCIOS VIRTUAL ( Caso negativo)|BANCA DE PERSONAS|Actividades
+ 165277|Modificar límite con el rol EJECUTIVO DE NEGOCIOS VIRTUAL (caso negativo).|BANCA DE PERSONAS|Actividades
+ 165281|Consultar que el rol EJECUTIVO DE NEGOCIOS VIRTUAL pueda realizar consultas de limites.|BANCA DE PERSONAS|Actividades
+ 166630|Realizar consulta de préstamos con el rol GERENTE DE NEGOCIOS VIRTUAL BANCA PERSONA Y NEGOCIOS.|BANCA DE PERSONAS|Actividades
+ 166632|Consultar que el rol GERENTE DE NEGOCIOS VIRTUAL BANCA PERSONA Y NEGOCIOS tenga acceso a simulaciones del prestamo.|BANCA DE PERSONAS|Actividades
+ 166638|Someter Request Payoff con New Activity para Cancelación de préstamo en vista 360 con el rol GERENTE DE NEGOCIOS VIRTUAL BANCA PERSONA Y NEGOCIOS|BANCA DE PERSONAS|Actividades
+ 166639|Realizar pago de una cuota de prestamos con el rol EJECUTIVO DE NEGOCIOS VIRTUAL.|BANCA DE PERSONAS|Actividades
+ 166640|Pagar cuota adelantada de un préstamo con el rol GERENTE DE NEGOCIOS VIRTUAL BANCA PERSONA Y NEGOCIOS|BANCA DE PERSONAS|Actividades
+ 166642|Realizar un abono a capital con reduccion de cuota de préstamo con el rol GERENTE DE NEGOCIOS VIRTUAL BANCA PERSONA Y NEGOCIOS|BANCA DE PERSONAS|Actividades
+ 166644|Realizar abono a capital con reduccion de tiempo de préstamo con el rol GERENTE DE NEGOCIOS VIRTUAL BANCA PERSONA Y NEGOCIOS|BANCA DE PERSONAS|Actividades
+ 166646|Someter Commitment con rol GERENTE DE NEGOCIOS VIRTUAL BANCA PERSONA Y NEGOCIOS (caso negativo)|BANCA DE PERSONAS|Actividades
+ 166647|Someter Penalty Interest con el rol GERENTE DE NEGOCIOS VIRTUAL BANCA PERSONA Y NEGOCIOS (caso negativo).|BANCA DE PERSONAS|Actividades
+ 166649|Someter Schedule con el rol GERENTE DE NEGOCIOS VIRTUAL BANCA PERSONA Y NEGOCIOS (caso negativo).|BANCA DE PERSONAS|Actividades
+ 166650|Someter reversar pago con el rol GERENTE DE NEGOCIOS VIRTUAL BANCA PERSONA Y NEGOCIOS ( caso negativo)|BANCA DE PERSONAS|Actividades
+ 166656|Someter Request Payment Holidays con el rol de GERENTE DE NEGOCIOS VIRTUAL BANCA PERSONA Y NEGOCIOS ( Caso negativo)|BANCA DE PERSONAS|Actividades
+ 166659|Consultar que el rol GERENTE DE NEGOCIOS VIRTUAL BANCA PERSONA Y NEGOCIOS pueda realizar consultas de limites.|BANCA DE PERSONAS|Actividades
+ 166661|Modificar límite con el rol GERENTE DE NEGOCIOS VIRTUAL BANCA PERSONA Y NEGOCIOS (caso negativo).|BANCA DE PERSONAS|Actividades
