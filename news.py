@@ -36,7 +36,8 @@ class NewFee:
 
         return email_body
 
-news_feed = NewFee(interest='nasa', from_date='2022-03-03', to_date='2022-03-09', language='es')
-#news_feed = NewFee()
-print(news_feed.get())
+
+if __name__ == "__main__":
+    news_feed = NewFee(interest='nasa', from_date='2022-03-03', to_date='2022-03-09', language='es')
+    print(news_feed.get())
 
