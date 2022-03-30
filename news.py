@@ -18,6 +18,23 @@ class NewFee:
 
     def get(self):
 
+        url = self._buid_url()
+
+        articles = self._get_articles(url)
+
+        email_body = ''
+        for article in articles:
+            email_body = email_body + article['title'] + "\n" + article['url'] + "\n\n"
+
+        return email_body
+
+    def _get_articles(self, url):
+        response = requests.get(url)
+        content = response.json()
+        articles = content['articles']
+        return articles
+
+    def _buid_url(self):
         url = f"{self.base_url}" \
               f"qInTitle={self.interest}&" \
               f"from={self.from_data}" \
@@ -25,16 +42,7 @@ class NewFee:
               f"language={self.language}&" \
               f"sortBy=popularity&" \
               f"apiKey={self.api_key}"
-
-        response = requests.get(url)
-        content = response.json()
-        articles = content['articles']
-
-        email_body = ''
-        for article in articles:
-            email_body = email_body + article['title'] + "\n" + article['url'] + "\n\n"
-
-        return email_body
+        return url
 
 
 if __name__ == "__main__":
